@@ -1,0 +1,2 @@
+- Android10/11 で 変更された位置情報権限を調査・検証を行うために作られたプロジェクトです。
+  - ブログ記事: [よくわかるAndroid API30のACCESS_BACKGROUND_LOCATION](https://spirits.appirits.com/type/technology/11780/)
